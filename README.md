@@ -2,13 +2,24 @@
   <img src="https://github.com/tkanoutas/tkanoutas/blob/main/GitHubHeader.png"/>
 </div>
 
-
 <h1>
-  Hi there, I am Thomas Kanoutas
-  <img align="center" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40" height="40"/>
+  Hi there <img align="center" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40" height="40"/>
+  I am Thomas Kanoutas 👨🏻‍💻
 </h1>
 
-##  Let's Connect
+* ⚙️ Data Scientist with 1+ year experience, highly skilled in Python and various ML techniques.
+
+* 🎓 MEng. (Master of Engineering) at Electrical & Computer Engineering
+
+* ⚡ Fun fact 1: I enjoy watching football and I'm a huge supporter of Aris Thessaloniki FC <img align="center" src="https://media.giphy.com/media/hpFCIrwAyOK7wkJDHN/giphy.gif" width="40" height="40"/>
+
+* ⚡ Fun fact 2: I’m a coffee-addict ☕.
+
+* 🏢 Currently entering a new chapter in my professional journey and actively seeking opportunities at the data field.
+
+* 🏠 **Rotterdam, South Holland, The Netherlands.**
+
+##  Let's Connect!
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/thomaskanoutas/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

@@ -1,7 +1,14 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/2z956IUc3J0noEOXUL/giphy.gif" width="100"/>
+  <img src="https://github.com/tkanoutas/tkanoutas/blob/main/GitHubHeader.png"/>
 </div>
 
+
+<h1>
+  Hi there, I am Thomas Kanoutas
+  <img align="center" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40" height="40"/>
+</h1>
+
+##  Let's Connect
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/thomaskanoutas/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,13 +21,8 @@
   </a>
 </div>
 
-<h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 ---
-## 🛠️ Programming languages, Frameworks and Tools
+## 🛠️ Programming Languages, Frameworks and Tools
 * ### 🚀 Currently Mastering :
 &ensp;&ensp;&ensp; <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="" height=""/></a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" width="" height=""/></a>
@@ -40,7 +42,7 @@
 &ensp;&ensp;&ensp; <a href="https://azure.microsoft.com/en-us" target="_blank"> <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="microsoftazure" width="" height=""/></a>
 <a href="https://kubernetes.io/docs/tutorials/kubernetes-basics/" target="_blank"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" width="" height=""/></a>
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 <!-- GitHub Stats by github-readme-stats.vercel.app -->
 <a href="https://github.com/tkanoutas">
   <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkanoutas&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide=html,css" alt="Thomas' GitHub Stats" />

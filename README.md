@@ -55,9 +55,4 @@
 
 ## 📈 GitHub Statistics
 <!-- GitHub Stats by github-readme-stats.vercel.app -->
-<a href="https://github.com/tkanoutas">
-  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkanoutas&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide=html,css" alt="Thomas' GitHub Stats" />
-</a>
-<a href="https://github.com/tkanoutas">
-  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=tkanoutas&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=D8BFD8&bg_color=1A2B34&rank_icon=github" alt="Thomas' GitHub Stats" />
-</a>
+[![Thomas' GitHub stats](https://github-readme-stats-pi-pearl.vercel.app/api?username=tkanoutas&show_icons=true&icon_color=d5d7de&theme=dark&bg_color=00000000&rank_icon=github&custom_title=Statistics)](https://github.com/anuraghazra/github-readme-stats)

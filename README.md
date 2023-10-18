@@ -18,7 +18,7 @@
 
 ---
 ## 🛠️ Programming languages, Frameworks and Tools
-* ### 🚀 Currently Mastering
+* ### 🚀 Currently Mastering :
 &ensp;&ensp;&ensp; <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/stable/tutorial/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
@@ -26,14 +26,14 @@
 <a href="https://pandas.pydata.org/docs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-* ### 🙈 Long time no see
-&ensp;&ensp;&ensp; <a href="https://keras.io" target="_blank"> <img src="https://en.wikipedia.org/wiki/File:Keras_logo.svg" alt="c" width="40" height="40"/></a>
+* ### 🙈 Long time no see :
+&ensp;&ensp;&ensp; <a href="https://keras.io" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/480px-Keras_logo.svg.png" alt="keras" width="40" height="40"/></a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a href="https://www.tutorialspoint.com/java/index.htm" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a>
 <a href="https://www.tutorialspoint.com/matlab/index.htm" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/></a>
-* ### 📚 To be mastered ...
+* ### 📚 To be mastered :
 &ensp;&ensp;&ensp; <a href="https://azure.microsoft.com/en-us" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoftazure" width="40" height="40"/></a>
 <a href="https://kubernetes.io/docs/tutorials/kubernetes-basics/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 

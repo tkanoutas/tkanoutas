@@ -9,7 +9,7 @@
 
 * ⚙️ Data Scientist with 1+ year experience, highly skilled in Python and various ML techniques.
 
-* 🎓 MEng. (Master of Engineering) at Electrical & Computer Engineering
+* 🎓 MEng. (Master of Engineering) at Electrical & Computer Engineering, Aristotle University of Thessaloniki
 
 * ⚡ Fun fact 1: I enjoy watching football and I'm a huge supporter of Aris Thessaloniki FC <img align="center" src="https://media.giphy.com/media/hpFCIrwAyOK7wkJDHN/giphy.gif" width="40" height="40"/>
 

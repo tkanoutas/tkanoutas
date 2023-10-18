@@ -55,4 +55,9 @@
 
 ## 📈 GitHub Statistics
 <!-- GitHub Stats by github-readme-stats.vercel.app -->
-[![Thomas' GitHub stats](https://github-readme-stats-pi-pearl.vercel.app/api?username=tkanoutas&show_icons=true&icon_color=d5d7de&theme=dark&bg_color=00000000&rank_icon=github&custom_title=Statistics)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/tkanoutas">
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats-pi-pearl.vercel.app/api?username=tkanoutas&show_icons=true&icon_color=d5d7de&theme=dark&bg_color=00000000&rank_icon=github&custom_title=Statistics" alt="Thomas' GitHub Stats" />
+</a>
+<a href="https://github.com/tkanoutas">
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats-pi-pearl.vercel.app/api/top-langs/?username=tkanoutas&show_icons=true&icon_color=d5d7de&theme=dark&bg_color=00000000" alt="Foteini's GitHub Stats" />
+</a>

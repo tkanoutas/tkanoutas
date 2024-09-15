@@ -15,7 +15,7 @@
 
 * ⚡ Fun fact 2: I’m a coffee-addict ☕.
 
-* 🏢 Currently entering a new chapter in my professional journey and actively seeking opportunities at the data field.
+* 🏢 Currently, working as a Data Scientist at [De Innovatiespotter](https://www.innovatiespotter.nl).
 
 * 🏠 **Rotterdam, South Holland, The Netherlands.**
 
@@ -37,6 +37,7 @@
 * ### 🚀 Currently Mastering :
 &ensp;&ensp;&ensp; <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="" height=""/></a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" width="" height=""/></a>
+<a href="https://keras.io" target="_blank"> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=whit" alt="keras" width="" height=""/></a>
 <a href="https://scikit-learn.org/stable/tutorial/index.html" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn" width="" height=""/></a>
 <a href="https://numpy.org" target="_blank"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" width="" height=""/></a>
 <a href="https://pandas.pydata.org/docs/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="" height=""/></a>
@@ -45,7 +46,6 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" width="" height=""/></a>
 * ### 🙈 Long time no see :
 &ensp;&ensp;&ensp; <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="powerbi" width="" height=""/></a>
-<a href="https://keras.io" target="_blank"> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=whit" alt="keras" width="" height=""/></a>
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" width="" height=""/></a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="" height=""/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="" height=""/></a>
